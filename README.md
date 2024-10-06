@@ -7,6 +7,13 @@ if you want to represent the result, run
 ```bash
 python predict.py
 ```
+### Parameters Selecting Result
+The figures are in ./val\
+if you want to represent the result, run 
+```bash
+python experiment.py
+```
+The noise_level, sta_len, lta_len could be modified. 
 
 #### Requirements
 numpy\
