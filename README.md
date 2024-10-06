@@ -3,8 +3,10 @@
 ![image](https://github.com/wei-che34/Seismic-Detection-Across-the-Solar-System/blob/main/framework.jpg)
 ### Prediction Result
 The figures are in ./figs\
-if you want to represent the result\
-run python predict.py
+if you want to represent the result, run 
+```bash
+python predict.py
+```
 
 #### Requirements
 numpy\
