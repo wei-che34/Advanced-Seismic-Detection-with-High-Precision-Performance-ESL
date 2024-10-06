@@ -4,7 +4,7 @@
 ### Prediction Result
 The figures are in ./figs\
 if you want to represent the result\
-run '''python predict.py'''
+run 'python predict.py'
 
 #### Requirements
 numpy\
